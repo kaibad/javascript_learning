@@ -1,0 +1,13 @@
+1.=== also compares the type
+2. fir(let/var/const i=0;i<=5;i++){}
+3. class is blueprint and object are he properties of the class
+4.null and undefines difference is that for example:
+   var a=null;//a is null
+   var a;//a is undefined
+5.The flat() method concatenates sub-array elements.
+
+6.New keyword in JavaScript is used to create an instance of an object that has a constructor function. On calling the constructor function with ‘new’ operator, the following actions are taken:
+
+A new empty object is created.
+The new object’s internal ‘Prototype’ property (__proto__) is set the same as the prototype of the constructing function.
+The ‘this’ variable is made to point to the newly created object. It binds the property which is declared with ‘this’ keyword to the new object.
