@@ -11,3 +11,7 @@
 A new empty object is created.
 The new object’s internal ‘Prototype’ property (__proto__) is set the same as the prototype of the constructing function.
 The ‘this’ variable is made to point to the newly created object. It binds the property which is declared with ‘this’ keyword to the new object.
+
+7.homework 
+   a.Prime number or not
+   b.while loop and do while loop
