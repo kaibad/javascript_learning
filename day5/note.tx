@@ -8,4 +8,11 @@
    debugging
    (heli)
    test
-6.npm stands for node packages manager   
+6.npm stands for node packages manager
+
+7.ASync
+   .setTimeOut
+   .Callback
+   .Promise
+   .Async/Await
+   
