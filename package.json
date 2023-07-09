@@ -1,0 +1,17 @@
+{
+  "name": "javascript",
+  "version": "1.0.0",
+  "description": "",
+  "type": "module",
+  "main": "helloworld.js",
+  "scripts": {
+    "test": "npm"
+  },
+  "keywords": [
+    "kailash"
+  ],
+
+
+  "author": "kailash",
+  "license": "ISC"
+}
