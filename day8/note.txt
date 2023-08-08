@@ -1,0 +1,8 @@
+higher order function
+  function that takes function as an arguement
+ map:- creates a new array--takes an current value & index
+ filter:-filter the values o curent value & indec array
+ reduce :- converts whole value of -> takes an current value,accumulator and an initial value 
+         default is xero can reduce a certain values as initial value
+           an array to a single value/output  
+call back : pass as refrence

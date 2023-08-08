@@ -1,0 +1,2 @@
+difference between function and method
+1.method needs object but the function donot need it
